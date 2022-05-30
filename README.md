@@ -13,7 +13,7 @@
 
 ###  Duygu Egitim Dedektörünü baslatın (Train Emotion detector)
 - icindeki tümm yuz ifadesi goruntuleri ile FER2013 Verisetine aiitir.
-- command --> python TranEmotionDetector.py
+- command --> python Eğitimverisiduyguanalizi.py
 
 islemcinize bagli olarak birkac saat surecektir. (8 GB RAM'li i5 7.nesil islemcide yaklasik 4-5 saatimi aldi)
 Egitimden sonra, egitilmis model olusacaktır ve olusan model proje dizininizde saklandıgını goreceksiniz.
