@@ -1,1 +1,1 @@
-# Y-z_Tan-ma_ve_Duygu_Analizi
+# Yüz_Tan-ma_ve_Duygu_Analizi
